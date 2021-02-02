@@ -1,5 +1,5 @@
 import React from "react";
-import {hashRouter, Route, Link} from "react-router-dom";
+import {HashRouter, Route, Link} from "react-router-dom";
 import Card from "@material-ui/core/Card";
 import MenuItem from "@material-ui/core/MenuItem";
 import MenuList from "@material-ui/core/MenuList";
@@ -11,7 +11,7 @@ import Contacts from "../Contacts/Contacts";
 import styles from "./App.module.css";
 
 const App = () => (
-    <hashRouter>
+    <HashRouter>
         <div className={styles.wrap}>
             <Card className={styles.sidebar}>
                 <MenuList className={styles.menu}>
@@ -27,6 +27,6 @@ const App = () => (
                 <Route path='/contacts' component={Contacts} />
             </Card>
         </div>
-    </hashRouter>);
+    </HashRouter>);
 
 export default App;
