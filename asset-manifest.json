@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Todo_React/static/css/main.2968c794.chunk.css",
-    "main.js": "/Todo_React/static/js/main.8f5bc2a2.chunk.js",
-    "main.js.map": "/Todo_React/static/js/main.8f5bc2a2.chunk.js.map",
+    "main.js": "/Todo_React/static/js/main.3f237432.chunk.js",
+    "main.js.map": "/Todo_React/static/js/main.3f237432.chunk.js.map",
     "runtime-main.js": "/Todo_React/static/js/runtime-main.282b66b7.js",
     "runtime-main.js.map": "/Todo_React/static/js/runtime-main.282b66b7.js.map",
-    "static/js/2.32b137a1.chunk.js": "/Todo_React/static/js/2.32b137a1.chunk.js",
-    "static/js/2.32b137a1.chunk.js.map": "/Todo_React/static/js/2.32b137a1.chunk.js.map",
+    "static/js/2.e8ddf683.chunk.js": "/Todo_React/static/js/2.e8ddf683.chunk.js",
+    "static/js/2.e8ddf683.chunk.js.map": "/Todo_React/static/js/2.e8ddf683.chunk.js.map",
     "index.html": "/Todo_React/index.html",
     "static/css/main.2968c794.chunk.css.map": "/Todo_React/static/css/main.2968c794.chunk.css.map",
-    "static/js/2.32b137a1.chunk.js.LICENSE.txt": "/Todo_React/static/js/2.32b137a1.chunk.js.LICENSE.txt",
+    "static/js/2.e8ddf683.chunk.js.LICENSE.txt": "/Todo_React/static/js/2.e8ddf683.chunk.js.LICENSE.txt",
     "static/media/ItemList.module.css": "/Todo_React/static/media/empty_picture.6b1e8646.png",
     "static/media/Repository.module.css": "/Todo_React/static/media/star.26d0b2e1.svg",
     "static/media/instagram.d8a66165.svg": "/Todo_React/static/media/instagram.d8a66165.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.282b66b7.js",
-    "static/js/2.32b137a1.chunk.js",
+    "static/js/2.e8ddf683.chunk.js",
     "static/css/main.2968c794.chunk.css",
-    "static/js/main.8f5bc2a2.chunk.js"
+    "static/js/main.3f237432.chunk.js"
   ]
 }
